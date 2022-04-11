@@ -12,3 +12,7 @@ int main(){
 	cout<<"hello world"<<endl;
 // last comment
 }
+//adding function def here
+void getdata()
+{
+}
