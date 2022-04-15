@@ -20,4 +20,4 @@ void Stu::getdata()
 void Stu::putdata()
 {
 }
-// for practical
+// for experiment
